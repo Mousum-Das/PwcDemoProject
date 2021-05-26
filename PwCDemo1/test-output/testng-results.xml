@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24008" started-at="2021-05-26T17:38:21Z" finished-at="2021-05-26T17:38:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24008" started-at="2021-05-26T17:38:21Z" finished-at="2021-05-26T17:38:45Z">
+      <class name="com.qa.Pages.LoginOYORooms">
+        <test-method status="PASS" signature="accessURL()[pri:0, instance:com.qa.Pages.LoginOYORooms@229d10bd]" name="accessURL" is-config="true" duration-ms="9024" started-at="2021-05-26T17:38:21Z" finished-at="2021-05-26T17:38:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accessURL -->
+        <test-method status="PASS" signature="findLocators()[pri:1, instance:com.qa.Pages.LoginOYORooms@229d10bd]" name="findLocators" duration-ms="11187" started-at="2021-05-26T17:38:30Z" finished-at="2021-05-26T17:38:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findLocators -->
+        <test-method status="PASS" signature="Assert()[pri:2, instance:com.qa.Pages.LoginOYORooms@229d10bd]" name="Assert" duration-ms="3030" started-at="2021-05-26T17:38:41Z" finished-at="2021-05-26T17:38:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Assert -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.Pages.LoginOYORooms@229d10bd]" name="tearDown" is-config="true" duration-ms="735" started-at="2021-05-26T17:38:45Z" finished-at="2021-05-26T17:38:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.Pages.LoginOYORooms -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
